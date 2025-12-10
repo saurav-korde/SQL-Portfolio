@@ -10,6 +10,8 @@ This project analyzes real-world pandemic data (Jan 2020 - Dec 2023) to identify
 * **Views:** Creating persistent virtual tables for visualization tools.
 
 ## 🗄️ The Data
+![Covid Schema](./covid_schema.png)
+
 * **Source:** Our World in Data (Standardized COVID-19 Dataset).
 * **Volume:** ~85,000+ records across 2 tables (`CovidDeaths`, `CovidVaccinations`).
 * **Format:** Relational Structure (Joined on `location` and `date`).
