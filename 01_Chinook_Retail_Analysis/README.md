@@ -9,10 +9,9 @@
 This project simulates a real-world business scenario where I acted as the lead analyst for "Chinook," a digital media retailer. The goal was to transform raw relational data into actionable business strategies, focusing on customer segmentation, sales trends, and inventory management.
 
 ## 🔧 The Schema
-The analysis utilizes the Chinook database, a highly normalized relational schema consisting of **11 tables**, including:
-* **Sales Data:** `Invoice`, `InvoiceLine`
-* **Product Data:** `Track`, `Album`, `Artist`, `Genre`, `MediaType`
-* **User Data:** `Customer`, `Employee`
+![Chinook ER Diagram](./chinook_schema.png)
+
+The analysis utilizes the Chinook database, a highly normalized relational schema consisting of **11 tables** (depicted above).
 
 ## 🚀 Key Business Problems Solved
 I wrote optimized SQL queries to answer critical business questions. You can find the complete SQL script in [`Chinook_Analysis.sql`](./Chinook_Analysis.sql).
