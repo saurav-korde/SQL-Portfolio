@@ -44,7 +44,7 @@ With a background in **Aerospace Engineering** (MSc from Swansea University, UK)
 ---
 
 ## 📫 Connect with Me
-* **LinkedIn:** [Saurav Korde](https://www.linkedin.com/in/sauravkorde/)
+* **LinkedIn:** [Saurav Korde](https://www.linkedin.com/in/saurav-korde)
 * **Email:** sauravkorde@outlook.com
 
 _This portfolio is maintained by Saurav Korde. Updates are pushed via VS Code & GitHub Desktop._
